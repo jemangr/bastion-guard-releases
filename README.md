@@ -22,12 +22,12 @@
     <img src="https://img.shields.io/badge/More_Apps-jemangr.app-f59e0b?style=for-the-badge" alt="jemangr.app" />
   </a>
   <a href="https://github.com/jemangr/bastion-guard-releases/releases">
-    <img src="https://img.shields.io/badge/Releases-v1.0.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
+    <img src="https://img.shields.io/badge/Releases-v1.1.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen" alt="Version v1.0.0" />
+  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen" alt="Version v1.1.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.bastionguard-blue" alt="Package app.jemangr.bastionguard" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
