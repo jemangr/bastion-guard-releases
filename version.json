@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "versionCode": 2,
+  "version": "1.2.0",
+  "versionCode": 3,
   "appName": "Bastion Guard",
   "packageName": "app.jemangr.bastionguard",
   "releaseDate": "2026-11-22",
@@ -9,22 +9,20 @@
   "releasesPageUrl": "https://github.com/jemangr/bastion-guard-releases/releases",
   "changelog": {
     "en": [
-      "Visual & Diorama Overhaul: Painted medieval scenery with Bastion castle gates and torchlights",
-      "Dynamic tactical road rendering with realistic cobblestone paving and ruts",
+      "Major Graphics Overhaul: Kingdom Rush hand-painted cel-shaded towers, units, heroes, and monsters",
+      "Authentic carved timber & scroll HUD with Sir Valerius portrait card and Meteor ultimate",
+      "High-resolution battlefields with cobblestone paving, wheel ruts, and Bastion fortress gates",
       "Screen Shake camera physics on Mortar impacts, Earth Shockwave, and Boss spawns",
-      "Directional ground shadows for all towers, hero, soldiers, enemies, and parabolic boulders",
-      "Micro-animations: unit breathing bob, enemy run wobble, and animated floating combat text",
-      "Redesigned compact radial menu with zero HUD obstruction",
+      "Directional ground shadows and breathing/walking micro-animations",
       "Web Audio War Horn fanfare and critical strike sound effects"
     ],
     "el": [
-      "Οπτική Αναβάθμιση Διοράματος: Ζωγραφισμένα μεσαιωνικά τοπία με πύλες κάστρου και αναμμένες δάδες",
-      "Δυναμική τακτική σχεδίαση μονοπατιού με καλντερίμι και ίχνη τροχών",
-      "Screen Shake δόνηση οθόνης σε εκρήξεις καταπέλτη, Earth Shockwave και εμφάνιση bosses",
-      "Κατευθυντικές σκιές εδάφους για όλους τους πύργους, ήρωα, στρατιώτες, εχθρούς και βλήματα",
-      "Micro-animations: αναπνοή μονάδων, ταλάντωση τρεξίματος εχθρών και animated αριθμοί μάχης",
-      "Νέο συμπαγές ακτινικό μενού (radial menu) χωρίς να καλύπτει το HUD",
-      "Ηχητική σάλπιγγα πολέμου (War Horn) και εφέ κρίσιμων χτυπημάτων"
+      "Μεγάλη Αναβάθμιση Γραφικών: Χειροποίητα cel-shaded γραφικά σε στυλ Kingdom Rush για πύργους, μονάδες, ήρωα και ορδή",
+      "Αυθεντικά σκαλιστά ξύλινα πλαίσια HUD & κάρτα ήρωα Sir Valerius με δύναμη Meteor",
+      "High-resolution πεδία μαχών με καλντερίμι, ίχνη τροχών και πύλες κάστρου",
+      "Screen Shake σεισμική δόνηση οθόνης σε εκρήξεις και εμφάνιση bosses",
+      "Κατευθυντικές σκιές εδάφους και micro-animations αναπνοής/τρεξίματος",
+      "Ηχητική σάλπιγγα πολέμου (War Horn) και κρίσιμα χτυπήματα"
     ]
   }
 }
