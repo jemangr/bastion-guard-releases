@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Classic Tactical Tower Defense (Kingdom Rush / Bad North Style) for Android & iOS</strong><br>
+  <strong>Classic Tactical Tower Defense for Android</strong><br>
   <em>Fortify chokepoints, command barracks stall squads, and unleash your movable Hero against mythic hordes!</em>
 </p>
 
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v1.2.0-brightgreen" alt="Version v1.2.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.bastionguard-blue" alt="Package app.jemangr.bastionguard" />
-  <img src="https://img.shields.io/badge/Platform-Android%208.0%2B%20%7C%20iOS%2016%2B-purple" alt="Android 8.0+ | iOS 16+" />
+  <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="All Rights Reserved" />
 </p>
@@ -46,9 +46,9 @@ Always get the latest official Android APK build from this permanent direct link
 
 ---
 
-## ✨ Key Highlights (`v1.2.0 — Kingdom Rush Graphics Overhaul`)
+## ✨ Key Highlights (`v1.2.0 — Cel-Shaded Graphics Overhaul`)
 
-- 🎨 **Kingdom Rush Hand-Painted Cel-Shaded Graphics Overhaul:**
+- 🎨 **Hand-Painted Cel-Shaded Graphics Overhaul:**
   - 16 custom-rendered fortress towers across 4 tiers with genuine stone masonry blocks, wood grain timber posts, iron bracing, gears, and pulsating crystals.
   - Hand-painted scenic biomes with organic cobblestone pathways, cart ruts, and earthen embankments.
   - High-definition hero card and wooden carved HUD capsules with golden filigree.
@@ -69,9 +69,8 @@ Always get the latest official Android APK build from this permanent direct link
 - 📺 **Smart & Fair Monetization Engine (`window.BastionGuardAds`):**
   - Rewarded Video options: Double Victory Gold & Stars, Emergency Citadel Reinforcements, Daily Armory Vault spin, and Tower Overcharge Runes.
   - FTUE grace period (6 minutes) and smart cooldown for interstitials.
-- 📱 **Cross-Platform Standalone Builds:**
-  - **Android APK:** 100% offline gameplay, hardware-accelerated WebView, offline Greek cartoon font `GameDisplay` (`M PLUS Rounded 1c`), zero external Gradle/Node dependencies.
-  - **iOS:** Native WebKit container with automatic Apple ID signing (`app.jemangr.bastionguard`).
+- 📱 **Standalone Android APK:**
+  - 100% offline gameplay, hardware-accelerated WebView, offline Greek cartoon font `GameDisplay` (`M PLUS Rounded 1c`), zero external Gradle/Node dependencies.
 
 ---
 
@@ -84,10 +83,6 @@ Always get the latest official Android APK build from this permanent direct link
 | 3. Hero Commander Earth Shockwave Stun | 4. The Bastion Forge Star Upgrades |
 | :---: | :---: |
 | <img src="screenshots/bg_03_hero_shockwave.png" width="340" alt="Hero Earth Shockwave Ultimate" /> | <img src="screenshots/bg_04_forge_upgrades.png" width="340" alt="Star Upgrades in the Bastion Forge" /> |
-
-| 5. Running on iOS (iPhone 18 Pro) |
-| :---: |
-| <img src="screenshots/bg_05_ios_gameplay.png" width="500" alt="Bastion Guard on iPhone" /> |
 
 ---
 
