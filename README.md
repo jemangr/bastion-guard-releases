@@ -3,7 +3,7 @@
 <p align="center">
   <img src="screenshots/icon-bastionguard.webp" width="128" alt="Bastion Guard Icon" style="border-radius: 26px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/bg_02_combat_towers.png" width="340" alt="Bastion Guard Combat" style="border-radius: 16px;" />
+  <img src="screenshots/bg_07_dragon_boss_battle_el.webp" width="360" alt="Bastion Guard Dragon Boss Combat" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
@@ -76,13 +76,17 @@ Always get the latest official Android APK build from this permanent direct link
 
 ## 📸 Screenshots Gallery
 
-| 1. Tactical Battlefield & Cel-Shaded Nodes | 2. Full Fortress Defense & Barracks Squad |
+| 1. Τακτικό Πεδίο Μάχης & Κόμβοι | 2. Πλήρης Άμυνα & Τάγμα Φρουράς |
 | :---: | :---: |
-| <img src="screenshots/bg_01_battlefield.png" width="340" alt="Tactical Battlefield & Nodes" /> | <img src="screenshots/bg_02_combat_towers.png" width="340" alt="Active Combat with Towers & Soldiers" /> |
+| <img src="screenshots/bg_01_battlefield_el.webp" width="360" alt="Τακτικό Πεδίο Μάχης & Κόμβοι" /> | <img src="screenshots/bg_02_combat_towers_el.webp" width="360" alt="Πλήρης Άμυνα με Πύργους & Στρατιώτες" /> |
 
-| 3. Hero Commander Earth Shockwave Stun | 4. The Bastion Forge Star Upgrades |
+| 3. Σεισμικό Κύμα Ήρωα (Earth Shockwave) | 4. Το Σιδηρουργείο του Προπυργίου (Upgrades) |
 | :---: | :---: |
-| <img src="screenshots/bg_03_hero_shockwave.png" width="340" alt="Hero Earth Shockwave Ultimate" /> | <img src="screenshots/bg_04_forge_upgrades.png" width="340" alt="Star Upgrades in the Bastion Forge" /> |
+| <img src="screenshots/bg_03_hero_shockwave_el.webp" width="360" alt="Σεισμικό Κύμα Ήρωα Σερ Βαλέριου" /> | <img src="screenshots/bg_04_forge_upgrades_el.webp" width="360" alt="Αναβαθμίσεις Αστεριών στο Σιδηρουργείο" /> |
+
+| 5. Αναμέτρηση με τον Δράκο Wyrm (Boss Wave) | 6. Cinematic Καθαρή Μάχη (Χωρίς Μενού) |
+| :---: | :---: |
+| <img src="screenshots/bg_07_dragon_boss_battle_el.webp" width="360" alt="Επική Μάχη με τον Δράκο Wyrm" /> | <img src="screenshots/bg_06_cinematic_no_hud.webp" width="360" alt="Cinematic Καθαρή Μάχη χωρίς Μενού" /> |
 
 ---
 
