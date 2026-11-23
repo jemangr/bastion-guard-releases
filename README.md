@@ -74,8 +74,22 @@ Always get the latest official Android APK build from this permanent direct link
 
 ---
 
-## 📸 Screenshots Gallery
+## 📸 Screenshots Gallery (v1.2.0 Cel-Shaded)
 
+### 🇬🇧 English UI
+| 1. Tactical Battlefield & Build Nodes | 2. Full Fortress Defense & Barracks Squad |
+| :---: | :---: |
+| <img src="screenshots/bg_01_battlefield.webp" width="360" alt="Tactical Battlefield & Build Nodes" /> | <img src="screenshots/bg_02_combat_towers.webp" width="360" alt="Full Fortress Defense with Towers & Soldiers" /> |
+
+| 3. Hero Earth Shockwave Stun | 4. The Bastion Forge Star Upgrades |
+| :---: | :---: |
+| <img src="screenshots/bg_03_hero_shockwave.webp" width="360" alt="Hero Sir Valerius Earth Shockwave Ultimate" /> | <img src="screenshots/bg_04_forge_upgrades.webp" width="360" alt="Star Upgrades in the Bastion Forge" /> |
+
+| 5. Wyrm Dragon Apex Boss Battle | 6. Radial Build Menu & Empty Stone Pads |
+| :---: | :---: |
+| <img src="screenshots/bg_07_dragon_boss_battle_en.webp" width="360" alt="Wyrm Dragon Apex Boss Battle" /> | <img src="screenshots/bg_empty_pad_radial_build_menu_en.webp" width="360" alt="Radial Build Menu on Empty Stone Pad" /> |
+
+### 🇬🇷 Ελληνικό UI
 | 1. Τακτικό Πεδίο Μάχης & Κόμβοι | 2. Πλήρης Άμυνα & Τάγμα Φρουράς |
 | :---: | :---: |
 | <img src="screenshots/bg_01_battlefield_el.webp" width="360" alt="Τακτικό Πεδίο Μάχης & Κόμβοι" /> | <img src="screenshots/bg_02_combat_towers_el.webp" width="360" alt="Πλήρης Άμυνα με Πύργους & Στρατιώτες" /> |
@@ -84,9 +98,9 @@ Always get the latest official Android APK build from this permanent direct link
 | :---: | :---: |
 | <img src="screenshots/bg_03_hero_shockwave_el.webp" width="360" alt="Σεισμικό Κύμα Ήρωα Σερ Βαλέριου" /> | <img src="screenshots/bg_04_forge_upgrades_el.webp" width="360" alt="Αναβαθμίσεις Αστεριών στο Σιδηρουργείο" /> |
 
-| 5. Αναμέτρηση με τον Δράκο Wyrm (Boss Wave) | 6. Cinematic Καθαρή Μάχη (Χωρίς Μενού) |
+| 5. Αναμέτρηση με τον Δράκο Wyrm (Boss Wave) | 6. Κυκλικό Μενού & Πέτρινες Βάσεις |
 | :---: | :---: |
-| <img src="screenshots/bg_07_dragon_boss_battle_el.webp" width="360" alt="Επική Μάχη με τον Δράκο Wyrm" /> | <img src="screenshots/bg_06_cinematic_no_hud.webp" width="360" alt="Cinematic Καθαρή Μάχη χωρίς Μενού" /> |
+| <img src="screenshots/bg_07_dragon_boss_battle_el.webp" width="360" alt="Επική Μάχη με τον Δράκο Wyrm" /> | <img src="screenshots/bg_empty_pad_radial_build_menu.webp" width="360" alt="Κυκλικό Μενού σε Πέτρινη Βάση" /> |
 
 ---
 
